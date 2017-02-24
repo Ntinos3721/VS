@@ -1,0 +1,5 @@
+https://abhijitjana.net/2010/07/15/identifying-worker-process-w3wp-exe-iis-6-0-and-iis-7-0-for-debugging-asp-net-application/
+
+• Start > Run > Cmd
+• Go To Windows > System32 > Inetsrv
+• Run appcmd list wp
